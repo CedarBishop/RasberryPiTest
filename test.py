@@ -29,7 +29,7 @@ import sys
 #define PINs according to cabling
 columnDataPin = 38
 rowDataPin = 36
-latchPIN = 14
+latchPIN = 9
 clockPIN = 7
 
 #set pins to putput
